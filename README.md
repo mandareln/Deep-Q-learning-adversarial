@@ -1,6 +1,7 @@
 # Deep Q learning for adversarial attacks
 
 To train the DQN model for MNIST/CIFAR-10 dataset, run the train_DQN_for_adversarial_attack.py
+
 The dataset can be selected on line 13/14 from the train_DQN_for_adversarial_attack.py.
 
 After the end of the training, it saves the trained Q model in the same directory.
